@@ -19,8 +19,14 @@ The sketch's default sound input source is your mic. On windows you can use
 generally give you more accurate beat detection.
 
 # Usage
+"bar height" - scale the height of the bars at the bottom of the screen.  
+"switch rate" - the % chance that the hue is switches to a random value upon beat detection.  
+"[hue/sat/int] offset" - the amount the value "jumps" after a beat is detected.  
+"[h/s/i] decay" - the rate at which the values decays.  
+"hue drift" - set hue do drift in a constant direction.  
+
 Shift-R or Shift-L to load settings from file.  
-Shift-S to save settings to file
+Shift-S to save settings to file.
 
 # Files
 The data folder contains two text files, port.txt and settings.txt.  
