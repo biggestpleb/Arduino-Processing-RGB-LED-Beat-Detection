@@ -1,0 +1,14 @@
+hue: 031
+saturation: 0.40
+intensity: 0.60
+hueDrift: 000
+barHeight: 0.27
+switchRate: 0.40
+hOffsetMax: 120.00
+hDecay: 0.992
+sOffsetMax: 0.80
+sDecay: 0.960
+iOffsetMax: 0.80
+iDecay: 0.960
+iMax: 1.00
+sMax: 1.000
