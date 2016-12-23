@@ -19,7 +19,7 @@ The sketch's default sound input source is your mic. On windows you can use
 generally give you more accurate beat detection.
 
 # Usage
-Shift-R or Shift-L to load settings from file
+Shift-R or Shift-L to load settings from file.  
 Shift-S to save settings to file
 
 # Files
