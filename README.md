@@ -20,7 +20,7 @@ generally give you more accurate beat detection.
 
 # Usage
 "bar height" - scale the height of the bars at the bottom of the screen.  
-"switch rate" - the % chance that the hue is switches to a random value upon beat detection.  
+"switch rate" - the % chance that the hue switches to a random value upon beat detection.  
 "[hue/sat/int] offset" - the amount the value "jumps" after a beat is detected.  
 "[h/s/i] decay" - the rate at which the values decays.  
 "hue drift" - set hue do drift in a constant direction.  
