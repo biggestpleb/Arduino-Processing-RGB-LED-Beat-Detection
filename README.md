@@ -18,6 +18,10 @@ The sketch's default sound input source is your mic. On windows you can use
 'Stereo Mix' to redirect your sound card output into mic. This will
 generally give you more accurate beat detection.
 
+# Usage
+Shift-R or Shift-L to load settings from file
+Shift-S to save settings to file
+
 # Files
 The data folder contains two text files, port.txt and settings.txt.  
 port.txt just contains the COM port your arduino is on.
